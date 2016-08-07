@@ -5,9 +5,8 @@
     <title></title>
   </head>
   <body>
-    Hello world
-    <script>
-        alert('Hello world');
-    </script>
+    <?php
+      print(2);
+    ?>
   </body>
 </html>
