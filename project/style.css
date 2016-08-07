@@ -1,0 +1,17 @@
+h1{
+  border-bottom:1px solid gray;
+  padding:30px;
+  font-size:100px;
+}
+h1 a{
+  text-decoration: none;
+}
+ul{
+  border-right:1px solid gray;
+  width:130px;
+  float:left;
+}
+#article {
+  float:left;
+  width:400px;
+}
